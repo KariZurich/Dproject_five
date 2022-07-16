@@ -1,0 +1,1 @@
+SECRET_KEY = 'jr#_-yy01j4$9-nh6-_og$m-e45&74igdyc_s92=*c4otyx@85'
